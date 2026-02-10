@@ -38,7 +38,7 @@ chmod +x hello.sh
    - A variable for your `NAME`
    - A variable for your `ROLE` (e.g., "DevOps Engineer")
    - Print: `Hello, I am <NAME> and I am a <ROLE>`
-2. Try using single quotes vs double quotes — what's the difference?
+   2. Try using single quotes vs double quotes — what's the difference?
 
 ---
 
@@ -48,7 +48,7 @@ chmod +x hello.sh
    - Asks for their favourite tool
    - Prints: `Hello <name>, your favourite tool is <tool>`
 
----
+---   
 
 ### Task 4: If-Else Conditions
 1. Create `check_number.sh` that:
