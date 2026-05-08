@@ -26,7 +26,8 @@ Create `person.yaml` that describes yourself with:
 - `learning` (a boolean)
 
 **Verify:** Run `cat person.yaml` — does it look clean? No tabs?
-    [person.yaml](files/person.yaml)
+
+    [person.yml](files/person.yml)
 
 ---
 
@@ -59,7 +60,7 @@ Create `server.yaml` that describes a server:
 
 **Verify:** Try adding a tab instead of spaces — what happens when you validate it?
 
-    [server.yaml](files/server.yaml)
+    [server.yml](files/server.yml)
 
 ---
 
