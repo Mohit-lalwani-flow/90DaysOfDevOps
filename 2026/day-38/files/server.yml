@@ -1,0 +1,27 @@
+name : ubuntu-server
+ip: 
+  - 127.8.9.1
+ports: 
+  - 80 
+  - 8000 
+database:
+  name: "production_db"
+  host: myhost
+  credentials:
+    - user: "admin"
+    - password: "test@123"
+
+# | : Literal block style: Preserves newlines (good for scripts)
+startup_script: |
+  #!/bin/bash
+  apt-get update
+  apt-get install -y nginx 
+  echo "starting nginx"
+  systemctl start nginx
+  systemctl status nginx
+
+# > : Folded block style: Folds lines into one single string
+description: >
+  echo "This is the script to run the nginx 
+  and check the status of it."
+
