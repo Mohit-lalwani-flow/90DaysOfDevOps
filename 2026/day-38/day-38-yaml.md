@@ -26,6 +26,7 @@ Create `person.yaml` that describes yourself with:
 - `learning` (a boolean)
 
 **Verify:** Run `cat person.yaml` — does it look clean? No tabs?
+- validation error
 
     [person.yml](files/person.yml)
 
@@ -59,6 +60,7 @@ Create `server.yaml` that describes a server:
 - `database` with nested keys: `host`, `name`, `credentials` (nested further: `user`, `password`)
 
 **Verify:** Try adding a tab instead of spaces — what happens when you validate it?
+- validation error
 
     [server.yml](files/server.yml)
 
