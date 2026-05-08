@@ -102,9 +102,11 @@ description: >
 4. Fix it and validate again
 
 * Invalid
+
     ![screenshot](images/invalid-person-yml.png)
 
 * Valid
+
     ![screenshot](images/person-yml.png)
 
 ---
