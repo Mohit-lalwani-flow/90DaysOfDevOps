@@ -93,7 +93,7 @@ A pipeline has these parts — write what each one does:
 Draw a CI/CD pipeline for this scenario:
 > A developer pushes code to GitHub. The app is tested, built into a Docker image, and deployed to a staging server.
 
-    ![snapshot](ci-cd.png)
+![snapshot](ci-cd.png)
 
 Include at least 3 stages. Hand-drawn and photographed is perfectly fine.
 
