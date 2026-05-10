@@ -14,7 +14,7 @@ This is the moment CI/CD stops being a concept and becomes real.
 2. Clone it locally
 3. Create the folder structure: `.github/workflows/`
 
-    [github-actions-practince](https://github.com/Mohit-lalwani-flow/github-actions-practice)
+    [github-actions-practice](https://github.com/Mohit-lalwani-flow/github-actions-practice)
 
 ---
 
@@ -105,7 +105,7 @@ run: sudo apt-get update # --> fixed command
 
 Write in your notes: What does a failed pipeline look like? How do you read the error?
 
-    It was clearly mentioned suda command not found , as you can see in first image of task 1
+    It was clearly mentioned suda command not found , as you can see in first image of task 5
 
 ---
 
