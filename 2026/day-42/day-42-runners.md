@@ -120,7 +120,7 @@ Write in your notes: Why does it matter that runners come with tools pre-install
 
 Write in your notes: Why are labels useful when you have multiple self-hosted runners?
 
-- Labels are useful to identify runner when there are multiple self-hosted runners
+- Labels are useful to identify runner uniquely when there are multiple self-hosted runners
 
 ---
 
