@@ -52,20 +52,20 @@ Write in your notes: What is a GitHub-hosted runner? Who manages it?
 Write in your notes: Why does it matter that runners come with tools pre-installed?
 
 - Speed
-    Faster Builds: Eliminates tool download time.
-    Quick Starts: Steps execute almost instantly.
-    Less Traffic: Saves network bandwidth usage.
+    - Faster Builds: Eliminates tool download time.
+    - Quick Starts: Steps execute almost instantly.
+    - Less Traffic: Saves network bandwidth usage.
 - Consistency
-    Identical Environments: Every job runs identically.
-    Fewer Flakes: Reduces external download failures.
-    Predictable Versions: Lock into specific software baselines.
+    - Identical Environments: Every job runs identically.
+    - Fewer Flakes: Reduces external download failures.
+    - Predictable Versions: Lock into specific software baselines.
 - Simplicity
-    Clean YAML: Fewer lines of setup code.
-    No Boilerplate: Skip repetitive apt-get or brew commands.
-    Easy Onboarding: New workflows work out of the box.
+    - Clean YAML: Fewer lines of setup code.
+    - No Boilerplate: Skip repetitive apt-get or brew commands.
+    - Easy Onboarding: New workflows work out of the box.
 - Cost Efficiency 
-    Lower Minutes: Shorter run times save money.
-    Free Storage: Heavy tools use runner disk space
+    - Lower Minutes: Shorter run times save money.
+    - Free Storage: Heavy tools use runner disk space
 
 ---
 
