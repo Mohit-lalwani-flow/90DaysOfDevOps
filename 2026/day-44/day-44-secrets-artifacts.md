@@ -9,7 +9,7 @@
 4. Try to print `${{ secrets.MY_SECRET_MESSAGE }}` directly — what does GitHub show?
 
 Write in your notes: Why should you never print secrets in CI logs?
-    * If we print out our secrets (AWS secrets key or API key ) publically security concern will arise.
+* If we print out our secrets (AWS secrets key or API key ) publically security concern will arise.
 
 [secrets.yml](https://github.com/Mohit-lalwani-flow/github-actions-practice/blob/main/.github/workflows/secrets.yml)
 
