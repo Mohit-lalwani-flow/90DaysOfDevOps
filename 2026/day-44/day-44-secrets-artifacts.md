@@ -46,7 +46,7 @@ Write in your notes: Why should you never print secrets in CI logs?
 2. Job 2: download the artifact from Job 1 and use it (print its contents)
 
 Write in your notes: When would you use artifacts in a real pipeline?
-    * They’re used when you need to persist and share files across jobs that don’t run in the same execution environment.
+* They’re used when you need to persist and share files across jobs that don’t run in the same execution environment.
 
 [copy-artifacts.yml](https://github.com/Mohit-lalwani-flow/github-actions-practice/blob/main/.github/workflows/copy-artifacts.yml)
 
